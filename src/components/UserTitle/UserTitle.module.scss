@@ -42,7 +42,7 @@
         margin-top: 6px;
 
         &::before{
-            content: 'Joined';
+            content: 'Joined ';
         }
 
         @media(min-width: 767px) {
